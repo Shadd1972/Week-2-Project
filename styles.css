@@ -10,7 +10,6 @@ body {
     color: #212529;
 }
 
-/* Container for consistent width */
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -28,12 +27,12 @@ p {
     font-size: 1.1rem;
 }
 
-#watches {
+#airbrush {
     background-color: #f8f9fa;
     border: 2px solid #1809ebed;
 }
 
-#watches .item-title {
+#airbrush .item-title {
     color: #0066cc; 
 }
 
