@@ -22,6 +22,7 @@ Must Have (Required for Passing):
 •	 Multiple responsive breakpoints (mobile, tablet, desktop) (no overlapping or hidden elements on tablet, mobile, desktop)
 •	 Hover effects on interactive elements
 •	 HTML and CSS validation passing
+
 Could Have (Bonus Points):
 •	 Implement Max Width and center the body on viewport
 •	 Advanced CSS Grid with named areas
